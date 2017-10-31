@@ -1,0 +1,24 @@
+Câu h?i 1: Làm nhu th? nào d? ki?m tra ki?u d? li?u c?a bi?n?
+Tr? l?i:
+	-Python có m?t hàm du?c g?i là "type", hàm dó có th? cho b?n bi?t ki?u d? li?u c?a bi?n. Cú pháp nhu sau: 
+	Ex:
+		>>> type("Hello, World!")
+		<class ’str’>
+	
+		>>> type(17)
+		<class ’int’>
+		
+			>>> type("17")
+		<class ’str’>
+		
+		>>> type("3.2")
+		<class ’str’> 
+Câu h?i 2: Trong tru?ng h?p nào thì trình biên d?ch s? thông báo tên bi?n c?a b?n không h?p l?? Hãy cho 3 ví d? tên biên không h?p l?.
+Tr? l?i:
+	-Tên du?c b?t d?u b?i các ch? s? ho?c ch?a các kí t? d?c bi?t
+	-Tên trùng v?i tên hàm, câu l?nh,.. du?c quy d?nh trong Python
+	VD:
+		+12TungDuong
+		+DuongNguyen$
+		+break
+	
