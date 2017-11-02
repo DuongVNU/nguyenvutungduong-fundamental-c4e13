@@ -1,0 +1,13 @@
+1. What is Boolean? Write down 3 different expression that results a Boolean type.
+Answer: 
+	-It is named after the British mathematician, GeorgeBoole, who first formulated Boolean algebra — some rules for reasoning about and combining
+these values. This is the basis of all modern computer logic.
+	+ In Python, the two Boolean values are True and False
+	+A Boolean expression is an expression that evaluates to produce a result which is a Boolean
+value	
+	Ex:
+		-  1 >0  => FALSE
+		- j = "hel"
+	          j + "lo" == "hello"
+		  => TRUE
+		- 10 == (5 + 5) => TRUE
